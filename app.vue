@@ -1,6 +1,6 @@
 <template>
-  <Title>主页</Title>
   <div>
+    <Title>主页</Title>
     <el-card>
       <el-button type="primary">点击</el-button>
     </el-card>
